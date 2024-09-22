@@ -13,4 +13,5 @@ git remote add origin git@github.com:ShineHang/DayOne.git 与线上仓库关联
 git push --force （强制推送 不建议 会覆盖线上代码） -u origin main 推送代码到线上的 main 分支
 
 测试git commit
+123123
 ~~~
